@@ -12,4 +12,4 @@ class Super < Reg
 end
 
 hi = Super.new
-hi.hi
+puts hi.hi
