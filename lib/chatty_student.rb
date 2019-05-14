@@ -6,3 +6,4 @@ end
 
 class Super < Reg
   def hi
+    super
