@@ -1,13 +1,13 @@
 class Reg
   def hi
-    puts "unsupered text"
+    "unsupered text"
   end
 end
 
 class Super < Reg
   def hi
     super
-    puts "super text"
+    "super text"
   end
 end
 
